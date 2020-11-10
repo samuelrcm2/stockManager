@@ -1,0 +1,50 @@
+.Main {
+  background-color: #292929;
+  color: white;
+  height: 100%;
+  width: 100%;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.Main .root .MuiTextField-root {
+  max-width: 150;
+  color: white;
+  border: white;
+}
+* {
+  font-size: 12px;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #292929;
+}
+
+/* use viewport-relative units to cover page fully */
+body {
+  height: 100vh;
+  width: 100vw;
+}
+
+.Main .root .MuiFormLabel-root {
+  font-size: 10px;
+}
+.Main .root .MuiInputBase-input {
+  font-size: 10px;
+}
+/* .Main .Main .MuiTextField-root {
+  color: white;
+  border-color: white;
+}
+.Main .Main .MuiInputBase-root {
+  color: white;
+  border-color: white;
+} */
+
+.MuiPaper-root {
+  padding: 10px;
+}

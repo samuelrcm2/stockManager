@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Application",
+    "\\Core\\Application\\Concrete",
+    "\\Core\\Domain",
+    "\\Core\\Domain\\Contract",
+    "\\Infracstruture",
+    "\\Presentation",
+    "\\Presentation\\Controllers"
+  ],
+  "SelectedNode": "\\StockManager.csproj",
+  "PreviewInSolutionExplorer": false
+}

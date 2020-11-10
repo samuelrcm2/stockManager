@@ -88,8 +88,8 @@ namespace StockManager
 
             app.UseSwaggerUI(s =>
             {
-                s.RoutePrefix = string.Empty;
                 s.SwaggerEndpoint("swagger/v1/swagger.json", "Stock Manager API");
+                s.RoutePrefix = string.Empty;
             });
 
         }
